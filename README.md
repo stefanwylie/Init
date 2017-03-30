@@ -1,16 +1,14 @@
 [![Stefan template build](img.jpg)](https://github.com/stefanwylie/Init)
 
-# 1
-
 ## Description
-
+This is a template site built for a general webpage.
 
 ## Instructions Overview
-- 1
-- 2
-- 3
-- 4
-- 5
+- 1. Ensure all dependencies are installed
+- 2. Clone files to local machine
+- 3. Navigate to folder on local machine
+- 4. Install NPM
+- 5. Run Gulp
 
 ## Instructions Details
 1. Make sure you have these installed
