@@ -17,11 +17,11 @@ This is a template site built for a general webpage.
 	- [gulp](http://gulpjs.com/)
 	- [ruby](http://gulpjs.com/)
 
-2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) `> git clone https://github.com/stefanwylie/Init.git`
-3. CD to the folder `cd "folder name here"`
-4. Run `> npm install` to install the project dependencies
-5. Install gulp.js via the Mac terminal or Gitbash on a PC `> npm install -g gulp`
-5. Run the Gulp command `> gulp`
+2. Clone this repository into your local machine using the terminal (mac) or Gitbash (PC) `sudo git clone https://github.com/stefanwylie/Init.git`
+3. CD to the folder `cd "folder name here"`. Or move the files into the root folder and delete the new folder that GIT created.
+4. Run `sudo npm install -q` to install the project dependencies
+5. Install gulp.js via the Mac terminal or Gitbash on a PC `sudo npm install gulp-cli -g`
+5. Run the Gulp command `gulp`
 
 ## More Stuff
 n/a
