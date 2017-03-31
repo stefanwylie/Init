@@ -1,5 +1,6 @@
 {
   "name": "SiteNameHere",
+  "licence": "MIT",
   "version": "1.0.0",
   "description": "A website template to build off of",
   "repository": {
