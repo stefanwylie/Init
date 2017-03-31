@@ -1,6 +1,6 @@
 {
   "name": "SiteNameHere",
-  "licence": "MIT",
+  "license": "MIT",
   "version": "1.0.0",
   "description": "A website template to build off of",
   "repository": {
@@ -10,6 +10,7 @@
   "author": "Stefan R. Wylie",
   "devDependencies": {
     "gulp": "^3.8.11",
+    "gulp-customize-bootstrap": "0.0.6",
     "gulp-jshint": "^1.9.0",
     "gulp-ruby-sass": "^1.0.5",
     "gulp-sourcemaps": "^1.5.2",
