@@ -23,5 +23,7 @@ This is a template site built for a general webpage.
 5. Install gulp.js via the Mac terminal or Gitbash on a PC `sudo npm install gulp-cli -g`
 5. Run the Gulp command `gulp`
 
+To exit `gulp`, hit Ctrl + C
+
 ## More Stuff
 n/a
